@@ -1,7 +1,11 @@
-## My Quick Static Site
+## My Digital History Journals
 
-This is a site I build with gh-pages. **Wow**
+### Week 1:
 
-It reads [markdown](https://www.markdownguide.org/) and turns it into html.
+### Week 2:
 
-![gif ftw](https://media.giphy.com/media/nXxOjZrbnbRxS/200w_d.gif)
+### Week 3:
+
+### Week 4:
+
+### Week 5:
