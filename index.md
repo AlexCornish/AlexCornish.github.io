@@ -1,13 +1,13 @@
 # My Digital History Journals
 
 ## Week 1:
-Not much to report in setting up all the parts for this as nothing went wrong, apart from an unrelated blue screen. It's not really related to this course and I couldn't screenshot it, but I googled the error code and determined that it was indicative of processor failure. Update: Computer is completely dead. Had to borrow one from roommate until the new one arrives.
+- Not much to report in setting up all the parts for this as nothing went wrong, apart from an unrelated blue screen. It's not really related to this course and I couldn't screenshot it, but I googled the error code and determined that it was indicative of processor failure. Update: Computer is completely dead. Had to borrow one from roommate until the new one arrives.
 
-I don't think I encountered any new terms as I have worked quite a bit with GitHub before.
+- I don't think I encountered any new terms as I have worked quite a bit with GitHub before.
 
-The UCLA guide (https://uclalibrary.github.io/slides/tutorial-zotero-intro.html#/) on using Zotero was very helpful in teaching how to use it as I had practically no clue how to use it initially.
+- The UCLA guide (https://uclalibrary.github.io/slides/tutorial-zotero-intro.html#/) on using Zotero was very helpful in teaching how to use it as I had practically no clue how to use it initially.
 
-There aren't many failures that could be encountered in this weeks section as it should be very simple if the instructions on the course website are followed properly. Possibly some error involving the the connection between the Zotero desktop and the web browser extension could cause a technological failure. Technological failures would be the most likely kind of failures for this week, followed by human error related failures, which would involve deviating from the instructions, either intentionally through disregarding aspects or improperly reading them, or unintentionally through misunderstanding them.
+- There aren't many failures that could be encountered in this weeks section as it should be very simple if the instructions on the course website are followed properly. Possibly some error involving the the connection between the Zotero desktop and the web browser extension could cause a technological failure. Technological failures would be the most likely kind of failures for this week, followed by human error related failures, which would involve deviating from the instructions, either intentionally through disregarding aspects or improperly reading them, or unintentionally through misunderstanding them.
 
 ## Week 2:
 
@@ -66,3 +66,18 @@ There aren't many failures that could be encountered in this weeks section as it
 - At least a baseline level of prior knowledge is probably a requirement for digital history arguements to make sense to the user as in some of the abstraction of data, the graphs / charts / other visual mediums can be a bit overwhelming, especially with corpus which might just look like a mass of random words without any context provided for them. Although, having visual mediums like this be used without prior knowledge might be for the better as it might catch the user's interest by allowing them to search the visualised data, discovering the links, and allowing them to investigate for themselves.
 
 ## Week 5:
+
+### What you found intriguing, compelling, and effective about the various sites and projects you explored this week. 
+
+- Out of everything, the most interesting piece that I read this week was easily "Songs of Ottawa". Particular parts of this essay that I found compelling was the why Data Sonification that elaborates on the history of the subject and makes it easier to understand what the meaning of it actual is, especially with comparisons to real world examples like ticks of a clock, or that whirring noise made by Geiger Counters. Also, this piece maked me understand why sonification would be more engaging to a data user than just regular data or charts, which I wasn't able to think of myself. 
+- However, I did really enjoy the digital panopticon with its visualisation tools that in a way serve the same purpose as sonification, to make the data more engaging to the user. 
+
+### With regard to your own work, reflect on your design choices and the story you’re trying to tell, or the interesting thing you’ve found. Then critically evaluate the thing(s) you’ve made
+- SONIFICATION: Not really sure what to make of it, I get that it is more engaging than looking at data, but I feel that so much information is lost in the process that I'm not sure what to make of what I'm hearing. Also this kind of representation wouldn't work as well for people with bad hearing, which might be something to consider in terms of accessiblity of digital history. However, what I've made is probably the nicest sounding thing that I came up with in about 30 minutes of trying different setting and in what it sets out to do, which is show the number of confirmed cases of Coronavirus, it does indeed demonstrate were there are increases and decreases.
+- POSTER: I don't like my poster, other than having the events portrayed in a circular fashion with arrows from one section to another indicating a passage of events and I'm somewhat happy with the level of information it provides. Aside from that I can't find any positives about it, I couldn't get the pictures to be consistently sized, nothing is lined up properly, and in retrospect the colour scheme looks like an RV from the '70s. 
+- STATIC WEBSITE (https://alexcornish.github.io/): I understand that the style of the website might not be for everyone, but I quite like it. Although I do concede a point made by my partner that I'll discuss later regarding eyes. 
+
+### Show the things you've made to someone outside the class. Did they understand the point you were trying to make? What was effective, for them, and what was confusing?
+- I showed / played the sonification for my partner as she found it confusing, in fact, whilst I was working on this I was doing so with the volume playing out loud from my laptop and she was really confused as to how this was digital history or how this was related to what I was supposed to be doing, so obviously context needs to be provided before playing this for anyone as it's just a random series of notes that don't sound that good together. Even with context, she didn't really understand the purpose of it. 
+- After that I showed her the poster, which she liked, as it was about Tombstone and her dad lives a very short distance away from it, but when I asked her about the presentation, she said that she liked it, although it could have been styled better as it kind of looks like the poster for the film Vertigo. The original version was brown and orange, but after some advice from her I changed it to orange and silver, which looks rather nice, and I edited the information on it, pairing it down to, what is in my opinion, a good amount for a poster. 
+- As for the website, she liked the simplistic style of it, althought she, quite rightly, said that it would probably give you a headache if you looked at it too long. 
